@@ -1,6 +1,7 @@
 ﻿using System.Runtime.CompilerServices;
 
 [assembly: InternalsVisibleTo("TestProject1")]
+[assembly: InternalsVisibleTo("TestProject"), InternalsVisibleTo("GUI")]
 
 namespace Lab1
 {

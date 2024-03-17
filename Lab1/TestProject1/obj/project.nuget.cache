@@ -1,19 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "xWX4LxcKPokCdppwyGvRugig3TcjevgHTLLboNjekO2HLegKhV9HcsFZDC2iqZrYHIZ5wWReKpi/kenv77YBHA==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\Dawid\\Desktop\\Lab1_solution\\TestProject1\\TestProject1.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Dawid\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
-    "C:\\Users\\Dawid\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
-    "C:\\Users\\Dawid\\.nuget\\packages\\microsoft.net.test.sdk\\17.8.0\\microsoft.net.test.sdk.17.8.0.nupkg.sha512",
-    "C:\\Users\\Dawid\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.8.0\\microsoft.testplatform.objectmodel.17.8.0.nupkg.sha512",
-    "C:\\Users\\Dawid\\.nuget\\packages\\microsoft.testplatform.testhost\\17.8.0\\microsoft.testplatform.testhost.17.8.0.nupkg.sha512",
-    "C:\\Users\\Dawid\\.nuget\\packages\\mstest.testadapter\\3.1.1\\mstest.testadapter.3.1.1.nupkg.sha512",
-    "C:\\Users\\Dawid\\.nuget\\packages\\mstest.testframework\\3.1.1\\mstest.testframework.3.1.1.nupkg.sha512",
-    "C:\\Users\\Dawid\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
-    "C:\\Users\\Dawid\\.nuget\\packages\\nuget.frameworks\\6.5.0\\nuget.frameworks.6.5.0.nupkg.sha512",
-    "C:\\Users\\Dawid\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
-  ],
-  "logs": []
+  "dgSpecHash": "ChQ7XCzpgzs8R5pQdFLgY6gkRCT2/vxwaRUKbNPfmB5I2EWkMukI01FTSmSXXO8lYcHfBebzWrHNxNeyllI8wQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Dawid\\Desktop\\.NET\\.NET-i-Java\\Lab1\\TestProject1\\TestProject1.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Projekt WinFormsApp1 nie jest zgodny z elementem net8.0 (.NETCoreApp,Version=v8.0). Projekt WinFormsApp1 obsługuje: net8.0-windows7.0 (.NETCoreApp,Version=v8.0)",
+      "libraryId": "WinFormsApp1",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }

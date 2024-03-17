@@ -23,6 +23,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Lab1\Lab1.csproj" />
+    <ProjectReference Include="..\WinFormsApp1\WinFormsApp1.csproj" />
   </ItemGroup>
 
   <ItemGroup>

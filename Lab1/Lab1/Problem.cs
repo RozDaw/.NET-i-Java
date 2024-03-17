@@ -6,6 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 [assembly: InternalsVisibleTo("TestProject1")]
+[assembly: InternalsVisibleTo("TestProject"), InternalsVisibleTo("GUI")]
 
 namespace Lab1
 {

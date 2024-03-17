@@ -1,22 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Dawid\\Desktop\\Lab1_solution\\",
+  "WorkspaceRootPath": "C:\\Users\\Dawid\\Desktop\\.NET\\.NET-i-Java\\Lab1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8AA3EDC0-24C0-405B-B3F3-F8C8DD5249D3}|Lab1\\Lab1.csproj|c:\\users\\dawid\\desktop\\lab1_solution\\lab1\\problem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8AA3EDC0-24C0-405B-B3F3-F8C8DD5249D3}|Lab1\\Lab1.csproj|solutionrelative:lab1\\problem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4214880E-E481-4D3D-967D-16194B05CB33}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\dawid\\desktop\\.net\\.net-i-java\\lab1\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4214880E-E481-4D3D-967D-16194B05CB33}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8AA3EDC0-24C0-405B-B3F3-F8C8DD5249D3}|Lab1\\Lab1.csproj|c:\\users\\dawid\\desktop\\lab1_solution\\lab1\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8AA3EDC0-24C0-405B-B3F3-F8C8DD5249D3}|Lab1\\Lab1.csproj|solutionrelative:lab1\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4214880E-E481-4D3D-967D-16194B05CB33}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\dawid\\desktop\\.net\\.net-i-java\\lab1\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4214880E-E481-4D3D-967D-16194B05CB33}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8AA3EDC0-24C0-405B-B3F3-F8C8DD5249D3}|Lab1\\Lab1.csproj|c:\\users\\dawid\\desktop\\lab1_solution\\lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8AA3EDC0-24C0-405B-B3F3-F8C8DD5249D3}|Lab1\\Lab1.csproj|solutionrelative:lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4214880E-E481-4D3D-967D-16194B05CB33}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\dawid\\desktop\\.net\\.net-i-java\\lab1\\winformsapp1\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4214880E-E481-4D3D-967D-16194B05CB33}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8AA3EDC0-24C0-405B-B3F3-F8C8DD5249D3}|Lab1\\Lab1.csproj|c:\\users\\dawid\\desktop\\lab1_solution\\lab1\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8AA3EDC0-24C0-405B-B3F3-F8C8DD5249D3}|Lab1\\Lab1.csproj|solutionrelative:lab1\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4214880E-E481-4D3D-967D-16194B05CB33}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\dawid\\desktop\\.net\\.net-i-java\\lab1\\winformsapp1\\problem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4214880E-E481-4D3D-967D-16194B05CB33}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\problem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4214880E-E481-4D3D-967D-16194B05CB33}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\dawid\\desktop\\.net\\.net-i-java\\lab1\\winformsapp1\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4214880E-E481-4D3D-967D-16194B05CB33}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,59 +30,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\Lab1_solution\\Lab1\\Program.cs",
-              "RelativeDocumentMoniker": "Lab1\\Program.cs",
-              "ToolTip": "C:\\Users\\Dawid\\Desktop\\Lab1_solution\\Lab1\\Program.cs",
-              "RelativeToolTip": "Lab1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T14:22:12.026Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Item.cs",
-              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\Lab1_solution\\Lab1\\Item.cs",
-              "RelativeDocumentMoniker": "Lab1\\Item.cs",
-              "ToolTip": "C:\\Users\\Dawid\\Desktop\\Lab1_solution\\Lab1\\Item.cs",
-              "RelativeToolTip": "Lab1\\Item.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T14:31:51.74Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Result.cs",
-              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\Lab1_solution\\Lab1\\Result.cs",
-              "RelativeDocumentMoniker": "Lab1\\Result.cs",
-              "ToolTip": "C:\\Users\\Dawid\\Desktop\\Lab1_solution\\Lab1\\Result.cs",
-              "RelativeToolTip": "Lab1\\Result.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAwB4AAAAxAAAA",
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\.NET\\.NET-i-Java\\Lab1\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Dawid\\Desktop\\.NET\\.NET-i-Java\\Lab1\\WinFormsApp1\\Form1.cs",
+              "RelativeToolTip": "WinFormsApp1\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T09:41:00.222Z",
+              "WhenOpened": "2024-03-16T20:06:22.884Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Problem.cs",
-              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\Lab1_solution\\Lab1\\Problem.cs",
-              "RelativeDocumentMoniker": "Lab1\\Problem.cs",
-              "ToolTip": "C:\\Users\\Dawid\\Desktop\\Lab1_solution\\Lab1\\Problem.cs",
-              "RelativeToolTip": "Lab1\\Problem.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAWAAAA",
+              "Title": "Form1.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\.NET\\.NET-i-Java\\Lab1\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Dawid\\Desktop\\.NET\\.NET-i-Java\\Lab1\\WinFormsApp1\\Form1.cs [Projekt]",
+              "RelativeToolTip": "WinFormsApp1\\Form1.cs [Projekt]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T14:32:25.099Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-16T20:37:59.535Z",
+              "EditorCaption": " [Projekt]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\.NET\\.NET-i-Java\\Lab1\\WinFormsApp1\\Result.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Result.cs",
+              "ToolTip": "C:\\Users\\Dawid\\Desktop\\.NET\\.NET-i-Java\\Lab1\\WinFormsApp1\\Result.cs",
+              "RelativeToolTip": "WinFormsApp1\\Result.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T20:36:49.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\.NET\\.NET-i-Java\\Lab1\\WinFormsApp1\\Item.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Item.cs",
+              "ToolTip": "C:\\Users\\Dawid\\Desktop\\.NET\\.NET-i-Java\\Lab1\\WinFormsApp1\\Item.cs",
+              "RelativeToolTip": "WinFormsApp1\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T20:36:42.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Problem.cs",
+              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\.NET\\.NET-i-Java\\Lab1\\WinFormsApp1\\Problem.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Problem.cs",
+              "ToolTip": "C:\\Users\\Dawid\\Desktop\\.NET\\.NET-i-Java\\Lab1\\WinFormsApp1\\Problem.cs",
+              "RelativeToolTip": "WinFormsApp1\\Problem.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAUwFIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T20:36:02.971Z"
             }
           ]
         }
