@@ -152,7 +152,7 @@
             // 
             label7.AutoSize = true;
             label7.ForeColor = Color.Crimson;
-            label7.Location = new Point(175, 319);
+            label7.Location = new Point(176, 319);
             label7.Name = "label7";
             label7.Size = new Size(118, 25);
             label7.TabIndex = 13;
