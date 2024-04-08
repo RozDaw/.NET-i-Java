@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WinFormsApp1": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\Dawid\\Desktop\\.NET\\.NET-i-Java\\Lab2\\WinFormsApp1"
+    }
+  }
+}
