@@ -20,7 +20,6 @@ namespace WinFormsApp1
         public Form1()
         {
             InitializeComponent();
-            listBox1.Items.Add("test");
             databasee = new DataBasee();
             databasee.Cities.RemoveRange(databasee.Cities);
             databasee.SaveChanges();

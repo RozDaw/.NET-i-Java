@@ -1,0 +1,17 @@
+E:\.NET\.NET-i-Java\lab3\lab3\bin\Debug\net8.0-windows\lab3.exe
+E:\.NET\.NET-i-Java\lab3\lab3\bin\Debug\net8.0-windows\lab3.deps.json
+E:\.NET\.NET-i-Java\lab3\lab3\bin\Debug\net8.0-windows\lab3.runtimeconfig.json
+E:\.NET\.NET-i-Java\lab3\lab3\bin\Debug\net8.0-windows\lab3.dll
+E:\.NET\.NET-i-Java\lab3\lab3\bin\Debug\net8.0-windows\lab3.pdb
+E:\.NET\.NET-i-Java\lab3\lab3\obj\Debug\net8.0-windows\lab3.Form1.resources
+E:\.NET\.NET-i-Java\lab3\lab3\obj\Debug\net8.0-windows\lab3.csproj.GenerateResource.cache
+E:\.NET\.NET-i-Java\lab3\lab3\obj\Debug\net8.0-windows\lab3.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET\.NET-i-Java\lab3\lab3\obj\Debug\net8.0-windows\lab3.AssemblyInfoInputs.cache
+E:\.NET\.NET-i-Java\lab3\lab3\obj\Debug\net8.0-windows\lab3.AssemblyInfo.cs
+E:\.NET\.NET-i-Java\lab3\lab3\obj\Debug\net8.0-windows\lab3.csproj.CoreCompileInputs.cache
+E:\.NET\.NET-i-Java\lab3\lab3\obj\Debug\net8.0-windows\lab3.sourcelink.json
+E:\.NET\.NET-i-Java\lab3\lab3\obj\Debug\net8.0-windows\lab3.dll
+E:\.NET\.NET-i-Java\lab3\lab3\obj\Debug\net8.0-windows\refint\lab3.dll
+E:\.NET\.NET-i-Java\lab3\lab3\obj\Debug\net8.0-windows\lab3.pdb
+E:\.NET\.NET-i-Java\lab3\lab3\obj\Debug\net8.0-windows\lab3.genruntimeconfig.cache
+E:\.NET\.NET-i-Java\lab3\lab3\obj\Debug\net8.0-windows\ref\lab3.dll
