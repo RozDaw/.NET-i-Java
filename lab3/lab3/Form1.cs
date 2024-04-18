@@ -34,7 +34,8 @@ namespace lab3
             Result result = new Result(size, num_threads, matrix1.matrix, matrix2.matrix);
 
             sw.Start();
-            result.Start();
+            if (radioButton1.Checked)   result.Start_t();
+            if (radioButton2.Checked)   result.Start_p();
             sw.Stop();
 
             TimeSpan ts = sw.Elapsed;

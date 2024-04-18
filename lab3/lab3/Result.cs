@@ -51,7 +51,7 @@ namespace lab3
             Form1.gui.listBox1.Items.Add("Thread " + num.ToString() + " ended");
         }
 
-        public void Start()
+        public void Start_t()
         {
             Thread[] threads = new Thread[num_threads];
             for (int i = 0; i < num_threads; i++)
@@ -62,6 +62,26 @@ namespace lab3
 
             foreach (Thread x in threads) x.Start();
             foreach (Thread x in threads) x.Join();
+        }
+
+        public void Start_p()
+        {
+            ParallelOptions opt = new ParallelOptions() { MaxDegreeOfParallelism = num_threads };
+            int[] threadUesed = new int[Environment.ProcessorCount];
+            Parallel.For(0, size, opt, x => {
+                int i = x;
+                for (int j = 0; j < size; j++)
+                {
+                    matrix[i, j] = 0;
+                    for (int k = 0; k < size; k++)
+                    {
+                        matrix[i, j] += m1[i, k] * m2[k, j];
+                    }
+                }
+                threadUesed[Thread.CurrentThread.ManagedThreadId]++;
+            });
+
+            Form1.gui.listBox1.Items.Add(string.Join(" ", threadUesed));
         }
 
         public override string ToString()
