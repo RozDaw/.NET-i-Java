@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Dawid\\Desktop\\.NET\\.NET-i-Java\\Lab2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C8793DE2-2FFB-43C8-9EC8-1087ED4B62F2}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\Dawid\\Desktop\\.NET\\.NET-i-Java\\Lab2\\winformsapp1\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8793DE2-2FFB-43C8-9EC8-1087ED4B62F2}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C8793DE2-2FFB-43C8-9EC8-1087ED4B62F2}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\dawid\\desktop\\.net\\.net-i-java\\lab2\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8793DE2-2FFB-43C8-9EC8-1087ED4B62F2}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C8793DE2-2FFB-43C8-9EC8-1087ED4B62F2}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\Dawid\\Desktop\\.NET\\.NET-i-Java\\Lab2\\winformsapp1\\weatherinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8793DE2-2FFB-43C8-9EC8-1087ED4B62F2}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\weatherinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8793DE2-2FFB-43C8-9EC8-1087ED4B62F2}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\Dawid\\Desktop\\.NET\\.NET-i-Java\\Lab2\\winformsapp1\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8793DE2-2FFB-43C8-9EC8-1087ED4B62F2}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C8793DE2-2FFB-43C8-9EC8-1087ED4B62F2}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\Dawid\\Desktop\\.NET\\.NET-i-Java\\Lab2\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
@@ -47,13 +47,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\.NET\\.NET-i-Java\\Lab2\\WinFormsApp1\\Form1.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
               "ToolTip": "C:\\Users\\Dawid\\Desktop\\.NET\\.NET-i-Java\\Lab2\\WinFormsApp1\\Form1.cs",
               "RelativeToolTip": "WinFormsApp1\\Form1.cs",
-              "ViewState": "AQIAAIAAAAAAAAAAAAAswBUAAAAiAAAA",
+              "ViewState": "AQIAADwAAAAAAAAAAAAYwBcAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-23T22:05:26.967Z",
               "IsPinned": true,
@@ -61,7 +61,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "City.cs",
               "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\.NET\\.NET-i-Java\\Lab2\\WinFormsApp1\\City.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\City.cs",
@@ -73,7 +73,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "WeatherInfo.cs",
               "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\.NET\\.NET-i-Java\\Lab2\\WinFormsApp1\\WeatherInfo.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\WeatherInfo.cs",
@@ -85,15 +85,30 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "DataBase.cs",
               "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\.NET\\.NET-i-Java\\Lab2\\WinFormsApp1\\DataBase.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\DataBase.cs",
               "ToolTip": "C:\\Users\\Dawid\\Desktop\\.NET\\.NET-i-Java\\Lab2\\WinFormsApp1\\DataBase.cs",
               "RelativeToolTip": "WinFormsApp1\\DataBase.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAhAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T14:35:21.277Z"
+              "WhenOpened": "2024-03-27T14:35:21.277Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 24,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         }
