@@ -3,11 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\Dawid\\Desktop\\.NET\\.NET-i-Java\\Lab1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{78CC7441-6851-4805-811F-4EC31D7EBD09}|TestProject1\\TestProject1.csproj|c:\\users\\dawid\\desktop\\.net\\.net-i-java\\lab1\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8AA3EDC0-24C0-405B-B3F3-F8C8DD5249D3}|Lab1\\Lab1.csproj|c:\\users\\dawid\\desktop\\.net\\.net-i-java\\lab1\\lab1\\problem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA3EDC0-24C0-405B-B3F3-F8C8DD5249D3}|Lab1\\Lab1.csproj|solutionrelative:lab1\\problem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA3EDC0-24C0-405B-B3F3-F8C8DD5249D3}|Lab1\\Lab1.csproj|C:\\Users\\Dawid\\Desktop\\.NET\\.NET-i-Java\\Lab1\\lab1\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA3EDC0-24C0-405B-B3F3-F8C8DD5249D3}|Lab1\\Lab1.csproj|solutionrelative:lab1\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78CC7441-6851-4805-811F-4EC31D7EBD09}|TestProject1\\TestProject1.csproj|C:\\Users\\Dawid\\Desktop\\.NET\\.NET-i-Java\\Lab1\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78CC7441-6851-4805-811F-4EC31D7EBD09}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8AA3EDC0-24C0-405B-B3F3-F8C8DD5249D3}|Lab1\\Lab1.csproj|c:\\users\\dawid\\desktop\\.net\\.net-i-java\\lab1\\lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8AA3EDC0-24C0-405B-B3F3-F8C8DD5249D3}|Lab1\\Lab1.csproj|C:\\Users\\Dawid\\Desktop\\.NET\\.NET-i-Java\\Lab1\\lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8AA3EDC0-24C0-405B-B3F3-F8C8DD5249D3}|Lab1\\Lab1.csproj|solutionrelative:lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -46,7 +54,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\.NET\\.NET-i-Java\\Lab1\\WinFormsApp1\\Form1.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
@@ -60,19 +68,43 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\.NET\\.NET-i-Java\\Lab1\\TestProject1\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "TestProject1\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\Dawid\\Desktop\\.NET\\.NET-i-Java\\Lab1\\TestProject1\\UnitTest1.cs",
-              "RelativeToolTip": "TestProject1\\UnitTest1.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAQwBkAAAAJAAAA",
+              "Title": "Problem.cs",
+              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\.NET\\.NET-i-Java\\Lab1\\Lab1\\Problem.cs",
+              "RelativeDocumentMoniker": "Lab1\\Problem.cs",
+              "ToolTip": "C:\\Users\\Dawid\\Desktop\\.NET\\.NET-i-Java\\Lab1\\Lab1\\Problem.cs",
+              "RelativeToolTip": "Lab1\\Problem.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAgwCgAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T22:39:08.754Z",
+              "WhenOpened": "2024-05-15T10:43:48.159Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\.NET\\.NET-i-Java\\Lab1\\Lab1\\Item.cs",
+              "RelativeDocumentMoniker": "Lab1\\Item.cs",
+              "ToolTip": "C:\\Users\\Dawid\\Desktop\\.NET\\.NET-i-Java\\Lab1\\Lab1\\Item.cs",
+              "RelativeToolTip": "Lab1\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T10:41:13.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\.NET\\.NET-i-Java\\Lab1\\TestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProject1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Dawid\\Desktop\\.NET\\.NET-i-Java\\Lab1\\TestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "TestProject1\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T22:39:08.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\.NET\\.NET-i-Java\\Lab1\\Lab1\\Program.cs",
               "RelativeDocumentMoniker": "Lab1\\Program.cs",
@@ -80,12 +112,11 @@
               "RelativeToolTip": "Lab1\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T22:01:10.987Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-18T22:01:10.987Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\.NET\\.NET-i-Java\\Lab1\\WinFormsApp1\\Program.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Program.cs",
@@ -93,12 +124,11 @@
               "RelativeToolTip": "WinFormsApp1\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T22:01:03.362Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-18T22:01:03.362Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\.NET\\.NET-i-Java\\Lab1\\WinFormsApp1\\Form1.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
@@ -109,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Result.cs",
               "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\.NET\\.NET-i-Java\\Lab1\\WinFormsApp1\\Result.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Result.cs",
@@ -117,12 +147,11 @@
               "RelativeToolTip": "WinFormsApp1\\Result.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T20:36:49.461Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-16T20:36:49.461Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Item.cs",
               "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\.NET\\.NET-i-Java\\Lab1\\WinFormsApp1\\Item.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Item.cs",
@@ -130,12 +159,11 @@
               "RelativeToolTip": "WinFormsApp1\\Item.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAUAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T20:36:42.722Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-16T20:36:42.722Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Problem.cs",
               "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\.NET\\.NET-i-Java\\Lab1\\WinFormsApp1\\Problem.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Problem.cs",
@@ -143,8 +171,21 @@
               "RelativeToolTip": "WinFormsApp1\\Problem.cs",
               "ViewState": "AQIAAEAAAAAAAAAAAAAkwFIAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T20:36:02.971Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-16T20:36:02.971Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 24,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         }
